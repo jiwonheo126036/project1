@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:id="@+id/linear_top"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/btn_back"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="3dp"
+            android:background="@color/white"
+            android:drawableLeft="@drawable/ic_back"
+            android:text="메인 페이지로" />
+
+        <TextView
+            android:id="@+id/second_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="6dp"
+            android:paddingLeft="10dp"
+            android:paddingTop="10dp"
+            android:paddingRight="10dp"
+            android:paddingBottom="10dp"
+            android:text="THE HYUNDAI SEOUL 층별 안내도"
+            android:textColor="@color/black"
+            android:textSize="28sp" />
+    </LinearLayout>
+
+
+    <ImageView
+        android:id="@+id/img_floor"
+        android:layout_width="match_parent"
+        android:layout_height="400dp"
+        android:scaleType="centerCrop" />
+
+    <LinearLayout
+        android:id="@+id/btn_linear"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/btn_b2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@drawable/btn_design"
+            android:minWidth="0dp"
+            android:minHeight="0dp"
+            android:text="B2"
+            android:textColor="@drawable/btn_textcolor" />
+
+        <Button
+            android:id="@+id/btn_b1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@drawable/btn_design"
+            android:minWidth="0dp"
+            android:minHeight="0dp"
+            android:text="B1"
+            android:textColor="@drawable/btn_textcolor" />
+
+        <Button
+            android:id="@+id/btn_1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@drawable/btn_design"
+            android:minWidth="0dp"
+            android:minHeight="0dp"
+            android:text="F1"
+            android:textColor="@drawable/btn_textcolor" />
+
+        <Button
+            android:id="@+id/btn_2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@drawable/btn_design"
+            android:minWidth="0dp"
+            android:minHeight="0dp"
+            android:text="F2"
+            android:textColor="@drawable/btn_textcolor" />
+
+        <Button
+            android:id="@+id/btn_3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@drawable/btn_design"
+            android:minWidth="0dp"
+            android:minHeight="0dp"
+            android:text="F3"
+            android:textColor="@drawable/btn_textcolor" />
+
+        <Button
+            android:id="@+id/btn_4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@drawable/btn_design"
+            android:minWidth="0dp"
+            android:minHeight="0dp"
+            android:text="F4"
+            android:textColor="@drawable/btn_textcolor" />
+
+        <Button
+            android:id="@+id/btn_5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@drawable/btn_design"
+            android:minWidth="0dp"
+            android:minHeight="0dp"
+            android:text="F5"
+            android:textColor="@drawable/btn_textcolor" />
+
+        <Button
+            android:id="@+id/btn_6"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@drawable/btn_design"
+            android:minWidth="0dp"
+            android:minHeight="0dp"
+            android:text="F6"
+            android:textColor="@drawable/btn_textcolor" />
+
+    </LinearLayout>
+
+
+    <TextView
+        android:id="@+id/txt_result"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="3dp"
+        android:layout_weight="1"
+        android:text="20대 여성을 위한 추천광고"
+        android:textSize="20sp" />
+
+    <HorizontalScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <ImageView
+                android:id="@+id/img_ad1"
+                android:layout_width="match_parent"
+                android:layout_height="700dp"
+                android:layout_weight="1"
+                android:scaleType="fitXY"
+                android:src="@drawable/zadig_and_voltaire" />
+
+            <ImageView
+                android:id="@+id/img_ad2"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:scaleType="fitXY"
+                android:src="@drawable/williams_sonoma" />
+
+            <ImageView
+                android:id="@+id/img_ad4"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:scaleType="fitXY"
+                android:src="@drawable/zadig_and_voltaire" />
+
+            <ImageView
+                android:id="@+id/img_ad3"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:scaleType="fitXY"
+                android:src="@drawable/zadig_and_voltaire" />
+
+            <ImageView
+                android:id="@+id/img_ad5"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:scaleType="fitXY"
+                android:src="@drawable/zadig_and_voltaire" />
+
+            <ImageView
+                android:id="@+id/img_ad6"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:scaleType="fitXY"
+                android:src="@drawable/zadig_and_voltaire" />
+
+        </LinearLayout>
+    </HorizontalScrollView>
+
+</LinearLayout>
