@@ -4,9 +4,10 @@
 1. 프로젝트 팀 구성원<br>
 2. 주제 선정 배경 및 개요<br>
 3. 주요 기능 소개 및 실행 프로세스<br>
-4. 팀별 역할<br>
-5. 프로젝트 수행 과정<br>
-6. 향후 계획 및 개선사항<br>
+4. 시연영상<br>
+5. 팀별 역할<br>
+6. 프로젝트 수행 과정<br>
+7. 향후 계획 및 개선사항<br>
 <hr/>
 2022/05/03 - 06/14<br>
 이 프로젝트는 IoT/Big data/AI/Cloud 분야가 모여 협업한 융복합 프로젝트입니다.<br>
@@ -31,11 +32,13 @@
 <img width="700" alt="1" src="https://user-images.githubusercontent.com/80867941/176439926-0476a822-d862-4ef4-9bd7-a67609c52829.png">
 <hr/>
 
-### 4. 팀별 역할
+### 4. 시연영상
+https://www.youtube.com/watch?v=9s1WgsiwTjc<
+### 5. 팀별 역할
 <img width="700" alt="1" src="https://user-images.githubusercontent.com/80867941/176439961-18d70ec6-2136-4482-bfc5-6ebf8665624b.png">
 <hr/>
 
-### 5. 프로젝트 수행 과정
+### 6. 프로젝트 수행 과정
 <img width="700" alt="1" src="https://user-images.githubusercontent.com/80867941/176440019-e265ffe4-6f9a-4510-a1c3-340e462b524b.png">
 <img width="700" alt="1" src="https://user-images.githubusercontent.com/80867941/176440054-a52100fe-b0df-4ae1-9b90-89b70e032152.png">
 <img width="700" alt="1" src="https://user-images.githubusercontent.com/80867941/176440096-6358c20f-2804-43b9-bb84-43f3a1796bdb.png">
@@ -47,5 +50,5 @@
 <img width="700" alt="1" src="https://user-images.githubusercontent.com/80867941/176440318-ff341297-190b-40e1-b41b-87d5f70fb57e.png">
 <hr/>
 
-### 6. 향후 계획 및 개선사항
+### 7. 향후 계획 및 개선사항
 <img width="700" alt="1" src="https://user-images.githubusercontent.com/80867941/176440347-d9543c8a-bf80-4ec6-81f2-2d02d8dc46f5.png">
