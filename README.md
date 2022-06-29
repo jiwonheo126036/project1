@@ -33,7 +33,10 @@
 <hr/>
 
 ### 4. 시연영상
-https://www.youtube.com/watch?v=9s1WgsiwTjc<
+AID 키오스크 시연영상<br>
+https://www.youtube.com/watch?v=9s1WgsiwTjc
+<hr/>
+
 ### 5. 팀별 역할
 <img width="700" alt="1" src="https://user-images.githubusercontent.com/80867941/176439961-18d70ec6-2136-4482-bfc5-6ebf8665624b.png">
 <hr/>
