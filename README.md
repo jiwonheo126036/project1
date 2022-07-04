@@ -23,14 +23,14 @@
 <hr/>
 
 ### 2. 주제 선정 배경 및 개요
-<img width="700" alt="1" src="https://user-images.githubusercontent.com/80867941/176439721-30643654-acd5-4a85-a3a5-2cb28d23b1e3.png">
+<img width="700" alt="1" src="https://user-images.githubusercontent.com/80867941/177109180-9e554cf5-fc41-4173-a268-913b18417212.png">
 <img width="700" alt="1" src="https://user-images.githubusercontent.com/80867941/176439772-76d50d80-261e-4644-b65d-0828e0f4a99c.png">
-<img width="700" alt="1" src="https://user-images.githubusercontent.com/80867941/176439830-bd13b8e1-901b-4322-9205-d5b16aa54d87.png">
+<img width="700" alt="1" src="https://user-images.githubusercontent.com/80867941/177109349-996738a5-5c0b-4d9a-82a9-fe04d1d98c5c.png">
 <hr/>
 
 ### 3. 주요 기능 소개 및 실행 프로세스
-<img width="700" alt="1" src="https://user-images.githubusercontent.com/80867941/176443803-c5deafee-1540-4bd9-b247-35373730cf8a.png">
-<img width="700" alt="1" src="https://user-images.githubusercontent.com/80867941/176439926-0476a822-d862-4ef4-9bd7-a67609c52829.png">
+<img width="700" alt="1" src="https://user-images.githubusercontent.com/80867941/177109579-a6deaca6-f147-4f1b-922d-1724e56fa715.png">
+<img width="700" alt="1" src="https://user-images.githubusercontent.com/80867941/177109663-58b60bf6-66c2-4334-8fda-f1a1aa9bf3fd.png">
 <hr/>
 
 ### 4. 시연영상
@@ -39,20 +39,20 @@ https://www.youtube.com/watch?v=9s1WgsiwTjc
 <hr/>
 
 ### 5. 팀별 역할
-<img width="700" alt="1" src="https://user-images.githubusercontent.com/80867941/176439961-18d70ec6-2136-4482-bfc5-6ebf8665624b.png">
+<img width="700" alt="1" src="https://user-images.githubusercontent.com/80867941/177109760-2ae8a77a-1106-4115-9283-bc346aed91a1.png">
 <hr/>
 
 ### 6. 프로젝트 수행 과정
-<img width="700" alt="1" src="https://user-images.githubusercontent.com/80867941/176440019-e265ffe4-6f9a-4510-a1c3-340e462b524b.png">
-<img width="700" alt="1" src="https://user-images.githubusercontent.com/80867941/176440054-a52100fe-b0df-4ae1-9b90-89b70e032152.png">
-<img width="700" alt="1" src="https://user-images.githubusercontent.com/80867941/176440096-6358c20f-2804-43b9-bb84-43f3a1796bdb.png">
-<img width="700" alt="1" src="https://user-images.githubusercontent.com/80867941/176440133-3b79d4d4-234c-498f-9490-b0fa63fe3397.png">
-<img width="700" alt="1" src="https://user-images.githubusercontent.com/80867941/176440194-324b733c-6d96-47c6-8236-cf93518d75ec.png">
-<img width="700" alt="1" src="https://user-images.githubusercontent.com/80867941/176440219-4a179307-4c35-4ccd-9563-491a03815ae6.png">
-<img width="700" alt="1" src="https://user-images.githubusercontent.com/80867941/176440245-75cf82bd-a476-4776-bfa4-b09a2bbdf1e0.png">
-<img width="700" alt="1" src="https://user-images.githubusercontent.com/80867941/176440274-e1d6cd96-4e07-403d-b0e7-623bd176890f.png">
-<img width="700" alt="1" src="https://user-images.githubusercontent.com/80867941/176440318-ff341297-190b-40e1-b41b-87d5f70fb57e.png">
+<img width="700" alt="1" src="https://user-images.githubusercontent.com/80867941/177109860-75000684-b006-4471-827f-41233d6d6993.png">
+<img width="700" alt="1" src="https://user-images.githubusercontent.com/80867941/177109908-0cc0493a-9300-4037-be72-1bd0fd080426.png">
+<img width="700" alt="1" src="https://user-images.githubusercontent.com/80867941/177109945-b8ae784e-f662-4e88-adb6-b464599b6313.png">
+<img width="700" alt="1" src="https://user-images.githubusercontent.com/80867941/177109976-bfd56c81-8ad7-46c2-b2cf-7934ad706da7.png">
+<img width="700" alt="1" src="https://user-images.githubusercontent.com/80867941/177110004-43c90cc4-985d-4ccc-a6e2-0982446ffccf.png">
+<img width="700" alt="1" src="https://user-images.githubusercontent.com/80867941/177110036-91f6de82-f985-459e-859a-c7085fc8baeb.png">
+<img width="700" alt="1" src="https://user-images.githubusercontent.com/80867941/177110067-d55fefb9-d5c0-4c04-bed8-8ef517d1b11d.png">
+<img width="700" alt="1" src="https://user-images.githubusercontent.com/80867941/177110114-13b14784-4e3a-4181-84f5-f22ad1537ded.png">
+<img width="700" alt="1" src="https://user-images.githubusercontent.com/80867941/177110139-6788b1f3-8b33-4feb-92dc-b7a13272bea6.png">
 <hr/>
 
 ### 7. 향후 계획 및 개선사항
-<img width="700" alt="1" src="https://user-images.githubusercontent.com/80867941/176440347-d9543c8a-bf80-4ec6-81f2-2d02d8dc46f5.png">
+<img width="700" alt="1" src="https://user-images.githubusercontent.com/80867941/177110175-f6d5d92f-e4da-4488-be92-5ab1829e9a98.png">
